@@ -342,7 +342,7 @@ export const PORTFOLIO_DATA = {
 
   "socialLinks": {
     "linkedin": "https://linkedin.com/in/emmanuel-agyare-946a62139",
-    "github": "https://github.com/emmanuelagyare",
+    "github": "https://github.com/mannie-stien",
     "kaggle": "https://kaggle.com/emmanuelagyare"
   }
 };
