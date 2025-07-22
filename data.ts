@@ -237,7 +237,7 @@ export const PORTFOLIO_DATA = {
       ],
       "category": "AI/ML Extension",
       "links": {
-        "live": "https://chrome.google.com/webstore/detail/helpi",
+        "live": "https://chromewebstore.google.com/detail/hajjfdlodcdoadelnabjpbkcniodkkfo?utm_source=item-share-cb",
         "code": "https://github.com/emmanuelagyare/helpi"
       },
       "image": "https://github.com/mannie-stien/helpi-extension/blob/version-0.1.1/assets/store/FINAL-1400.jpeg?raw=true",
